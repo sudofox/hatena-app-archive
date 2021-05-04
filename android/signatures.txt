@@ -1,0 +1,275 @@
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.3.5.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.3.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.3.4.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v2.0.0.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v2.3.0.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.3.3.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.3.1.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.8.2.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.7.0.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.2.1.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.2.4.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.5.0.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v2.2.0.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v2.1.0.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.2.3.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.6.0.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.2.2.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.4.0.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./jp.ne.hatena.blog/jp.ne.hatena.blog_v1.3.2.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.4.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v4.54.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v4.48.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.20.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.23.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v4.49.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.15.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.8.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v4.53.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.3.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v4.59.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.17.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.21.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.22.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v4.58.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v4.55.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.9.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.18.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.11.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.19.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.5.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v4.56.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v4.57.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.16.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.1.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.14.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.7.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.6.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.2.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bookmark/com.hatena.android.bookmark_v5.0.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.monolith/com.hatena.android.monolith_v1.0.9.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.accounts/com.hatena.android.accounts_v1.4.5.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.bkuma.girls/com.hatena.android.bkuma.girls_v2.0.4.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.space/com.hatena.android.space_v2.3.1.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.fotolife/com.hatena.android.fotolife_v1.3.2.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
+===== ./com.hatena.android.fotolife/com.hatena.android.fotolife_v1.3.3.apk =====
+Signer #1 certificate DN: CN=Hatena Inc.
+Signer #1 certificate SHA-256 digest: 8cd89ea1c1871d503a6b618c0e4f5467f634a9040e5e74304a61087c54277a8a
+Signer #1 certificate SHA-1 digest: 741de50a98c93edefc1a382fda5f5f9c3fcee478
+Signer #1 certificate MD5 digest: 41bc420fdcf7513c6673380587da7dce
