@@ -1,0 +1,11 @@
+[Credentials]
+gmail_address=
+gmail_password=
+token=False
+
+[Locale]
+locale=en_US
+timezone=EST
+
+[Device]
+codename=polaris

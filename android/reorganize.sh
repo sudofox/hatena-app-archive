@@ -27,6 +27,16 @@ for app in $APKS; do
     # assemble the new filename
 
     new_filename="$package_name-$version_code-$version_name.apk"
+    new_path="$package_name/$new_filename"
+
+    # if the new path already exists, skip it
+    if [ -f $new_path ]; then
+        echo "Skipping $new_path"
+        continue
+    fi
+    
+    # move the app to the new path
+    
     echo mv $app ./$package_name/$new_filename
     mv $app ./$package_name/$new_filename
 done
