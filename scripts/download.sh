@@ -14,4 +14,4 @@ VERSION=$2
 # fixes for bugs (existing as of 2021-08-17)
 # https://github.com/NoMore201/googleplay-api/issues/132#issuecomment-671605973
 
-googleplay -a $PACKAGE -v $2
+./googleplay -a $PACKAGE -v $2
