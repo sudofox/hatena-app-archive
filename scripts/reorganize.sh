@@ -3,6 +3,10 @@
 # sudofox/hatena-app-archive
 # reorganize APKs based on package name, versionCode and versionName
 
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+
+ANDROID_DIR="$DIR/../android"
+
 APKS=$(find -type f -name \*.apk)
 
 for app in $APKS; do
@@ -19,15 +23,15 @@ for app in $APKS; do
 
     # if the app folder doesn't exist; create it
 
-    if [ ! -d ./$package_name ]; then
-        echo "Creating ./$package_name"
-        mkdir -p ./$package_name
+    if [ ! -d $ANDROID_DIR/$package_name ]; then
+        echo "Creating $ANDROID_DIR/$package_name"
+        mkdir -p $ANDROID_DIR/$package_name
     fi
 
     # assemble the new filename
 
     new_filename="$package_name-$version_code-$version_name.apk"
-    new_path="$package_name/$new_filename"
+    new_path="$ANDROID_DIR/$package_name/$new_filename"
 
     # if the new path already exists, skip it
     if [ -f $new_path ]; then
@@ -37,6 +41,6 @@ for app in $APKS; do
     
     # move the app to the new path
     
-    echo mv $app ./$package_name/$new_filename
-    mv $app ./$package_name/$new_filename
+    echo mv $app $ANDROID_DIR/$package_name/$new_filename
+    mv $app $ANDROID_DIR/$package_name/$new_filename
 done

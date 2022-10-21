@@ -1,0 +1,3 @@
+[submodule "lib/googleplay_go"]
+	path = lib/googleplay_go
+	url = git@github.com:89z/googleplay.git
