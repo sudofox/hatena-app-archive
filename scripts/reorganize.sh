@@ -4,7 +4,6 @@
 # reorganize APKs based on package name, versionCode and versionName
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
-
 ANDROID_DIR="$DIR/../android"
 
 APKS=$(find -type f -name \*.apk)
@@ -38,9 +37,9 @@ for app in $APKS; do
         echo "Skipping $new_path"
         continue
     fi
-    
+
     # move the app to the new path
-    
+
     echo mv $app $ANDROID_DIR/$package_name/$new_filename
     mv $app $ANDROID_DIR/$package_name/$new_filename
 done

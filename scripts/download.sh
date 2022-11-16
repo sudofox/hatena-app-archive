@@ -16,4 +16,4 @@ VERSION=$2
 # fixes for bugs (existing as of 2021-08-17)
 # https://github.com/NoMore201/googleplay-api/issues/132#issuecomment-671605973
 
-$DIR/../lib/googleplay_go/cmd/googleplay/googleplay -a $PACKAGE -v $2
+$DIR/../lib/googleplay_go/cmd/googleplay/googleplay -a $PACKAGE -v $2 -p 2
