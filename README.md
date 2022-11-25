@@ -21,3 +21,26 @@ Ko-Fi info is attached to the GitHub repository, this does cost me a bit of mone
 - `./scripts/download.sh <apk package name> <version to download>` - download an APK, version 0 prints out app information
 - `./scripts/reorganize.sh` - searches for any loose apks anywhere and puts them into the ./android/ folder with relevant filenames.
 - `./scripts/check_for_updates.sh` - does what it says on the tin. Don't forget to check for version codes you might've missed, this doesn't auto-enumerate all versions
+
+# Currently preserved
+
+I'm preserving anything with the `com.hatena.android` or `jp.ne.hatena` namespace.
+
+Currently uncertain about the history the "neetlabo" ones -- if I find out that they weren't actually made at Hatena or by an employee there, I might remove them.
+
+```
+com.hatena.android.accounts
+com.hatena.android.bkuma.girls
+com.hatena.android.bookmark
+com.hatena.android.coco
+com.hatena.android.fotolife
+com.hatena.android.monolith
+com.hatena.android.space
+jp.ne.hatena.blog
+jp.ne.hatena.neetlabo.GpsStatus
+jp.ne.hatena.neetlabo.InfoWidget2
+jp.ne.hatena.neetlabo.SimpleBookmarks
+jp.ne.hatena.neetlabo.TalkRec
+jp.ne.hatena.neetlabo.voicemush
+```
+
