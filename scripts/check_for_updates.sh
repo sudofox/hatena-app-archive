@@ -4,7 +4,7 @@
 
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 
-package_list=$(ls -1 $DIR/../android)
+package_list=$(ls -1 $DIR/../android | grep -v neetlabo)
 
 # whats the length of the longest package name?
 max_length=0
