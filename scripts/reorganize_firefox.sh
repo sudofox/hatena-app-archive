@@ -18,7 +18,27 @@ get_extension_data() {
         # check which version of the manifest we're dealing with
         MANIFEST_VERSION=$(echo "$MANIFEST_JSON" | jq -r '.manifest_version')
         # TODO this barely works for most...some dont even have an id even under browser_specific_settings.gecko.id
+        # try .applications.gecko.id first, then .browser_specific_settings.gecko.id
         EXT_ID=$(echo "$MANIFEST_JSON" | jq -r '.applications.gecko.id')
+        if [[ $EXT_ID == "null" ]]; then
+            EXT_ID=$(echo "$MANIFEST_JSON" | jq -r '.browser_specific_settings.gecko.id')
+        fi
+        # if still null, we might have to do more work
+        if [[ $EXT_ID == "null" ]]; then
+            # do nothing
+            :
+            #EXT_ID=$(unzip -p $XPI_PATH META-INF/mozilla.rsa | openssl pkcs7 -print -inform der -in -|grep -Po "subject: .+?(?=CN)CN=\{\K.+?(?=\})")
+        fi
+        # if it's still null, print an error
+        if [[ $EXT_ID == "null" ]]; then
+            echo "Error: could not find extension ID for $XPI_PATH" >&2
+            #return
+        fi
+
+        # strip leading and trailing curly braces if they exist
+        EXT_ID=$(echo $EXT_ID | sed 's/^{//' | sed 's/}$//')
+
+
         EXT_VERSION=$(echo "$MANIFEST_JSON" | jq -r '.version')
     elif [[ $FILE_TO_LOOK_FOR == "install.rdf" ]]; then
         INSTALL_RDF=$(unzip -p $XPI_PATH $FILE_TO_LOOK_FOR)
