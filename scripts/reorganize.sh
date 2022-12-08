@@ -18,7 +18,14 @@ for app in $APKS; do
     # 10
     version_code=$(echo "$details" | grep -Po " versionCode='\K.+?(?=')")
     # version 1.2
-    version_name=$(echo "$details" | grep -Po " versionName='\K.+?(?=')")
+    version_name=$(echo "$details" | tr ' ' '\n' | grep -Po "versionName='\K.+?(?=')")
+    # check if this is a split APK
+    split_part=$(echo "$details" | tr ' ' '\n' | grep -Po "split='\K.+?(?=')")
+
+    # if version_name is blank and split_part is not, use split_part as version_name
+    if [ -z "$version_name" ] && [ -n "$split_part" ]; then
+        version_name=$split_part
+    fi
 
     # if the app folder doesn't exist; create it
 
