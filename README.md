@@ -13,6 +13,7 @@ Ko-Fi info is attached to the GitHub repository, this does cost me a bit of mone
 # Requirements
 
 - [googleplay](https://github.com/89z/googleplay)
+  - Something happened to the library and its author -- may have to switch away from it at some point since it seems to have disappeared
   - You can use a [Google App Password](https://myaccount.google.com/apppasswords) instead of your main Google account password
 - aapt (via your favorite package manager)
 
@@ -43,4 +44,9 @@ jp.ne.hatena.neetlabo.SimpleBookmarks
 jp.ne.hatena.neetlabo.TalkRec
 jp.ne.hatena.neetlabo.voicemush
 ```
+
+# Additional apps
+
+Kondasha comicdays: https://hatena.co.jp/press/release/entry/2019/05/13/180000
+
 
