@@ -49,4 +49,10 @@ jp.ne.hatena.neetlabo.voicemush
 
 Kondasha comicdays: https://hatena.co.jp/press/release/entry/2019/05/13/180000
 
+# WIP
 
+- Firefox extensions -- a bit difficult to auto-organize due to changes in .xpi format
+- Chrome extensions
+  - Missing hcgdahkjfcpndfngokmijdopnjnjfgak (Hatena Space)
+  - Also need to auto-organize/get old versions
+- iOS apps - don't have any way to get these yet
