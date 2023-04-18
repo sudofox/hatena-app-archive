@@ -38,7 +38,6 @@ get_extension_data() {
         # strip leading and trailing curly braces if they exist
         EXT_ID=$(echo $EXT_ID | sed 's/^{//' | sed 's/}$//')
 
-
         EXT_VERSION=$(echo "$MANIFEST_JSON" | jq -r '.version')
     elif [[ $FILE_TO_LOOK_FOR == "install.rdf" ]]; then
         INSTALL_RDF=$(unzip -p $XPI_PATH $FILE_TO_LOOK_FOR)

@@ -27,8 +27,6 @@ Ko-Fi info is attached to the GitHub repository, this does cost me a bit of mone
 
 I'm preserving anything with the `com.hatena.android` or `jp.ne.hatena` namespace.
 
-Currently uncertain about the history the "neetlabo" ones -- if I find out that they weren't actually made at Hatena or by an employee there, I might remove them.
-
 ```
 com.hatena.android.accounts
 com.hatena.android.bkuma.girls
@@ -38,6 +36,11 @@ com.hatena.android.fotolife
 com.hatena.android.monolith
 com.hatena.android.space
 jp.ne.hatena.blog
+```
+
+While previously included, these have been removed as they're probably not by Hatena:
+
+```
 jp.ne.hatena.neetlabo.GpsStatus
 jp.ne.hatena.neetlabo.InfoWidget2
 jp.ne.hatena.neetlabo.SimpleBookmarks
