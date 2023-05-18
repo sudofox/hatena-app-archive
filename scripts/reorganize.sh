@@ -6,7 +6,7 @@
 DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
 ANDROID_DIR="$DIR/../android"
 
-APKS=$(find -type f -name \*.apk)
+APKS=$(find -type f -name \*.apk | sort)
 
 for app in $APKS; do
 
